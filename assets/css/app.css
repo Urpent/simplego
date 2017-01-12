@@ -1,0 +1,25 @@
+body {
+  padding: 32px;
+  margin: 32px;
+  font-family: "Roboto" , Arial, sans-serif;
+  font-size: 16px; }
+
+a {
+  cursor: pointer;
+  cursor: hand; }
+
+nav a {
+  padding: 5px 10px;
+  text-decoration: none;
+  margin-top: 10px;
+  display: inline-block;
+  background-color: #eee;
+  border-radius: 4px; }
+
+nav a:hover {
+  color: #039be5;
+  background-color: #CFD8DC; }
+
+nav a:active {
+  color: #039be5;
+  background-color: #CFDAEA; }
